@@ -5,8 +5,8 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 Gem::Specification.new do |spec|
   spec.name          = "url_validator"
   spec.version       = "0.0.1"
-  spec.authors       = ["sauy7"]
-  spec.email         = ["tim@heighes.com"]
+  spec.authors       = ["mediapilot"]
+  spec.email         = ["it@mediapilot.se"]
 
   spec.summary       = %q{URL validator for Active Model}
   spec.description   = %q{URL validator for Active Model}
